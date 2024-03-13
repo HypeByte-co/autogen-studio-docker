@@ -1,3 +1,10 @@
+# Custem ignore file for python projects
+.DS_Store
+dev/
+megalinter-reports/
+.mega-linter.yml
+.checkov.yml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
